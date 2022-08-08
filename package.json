@@ -1,0 +1,27 @@
+{
+  "name": "hexo-order-abbrlink",
+  "version": "1.0.0",
+  "description": "Create incremental and unique links for each Hexo post",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/96368a/hexo-order-abbrlink.git"
+  },
+  "keywords": [
+    "hexo",
+    "link",
+    "permalink",
+    "abbrlink"
+  ],
+  "author": "Logs404",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/96368a/hexo-order-abbrlink/issues"
+  },
+  "homepage": "https://github.com/96368a/hexo-order-abbrlink#readme",
+  "dependencies": {
+  }
+}
